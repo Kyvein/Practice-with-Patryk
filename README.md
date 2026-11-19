@@ -1,2 +1,3 @@
 # Practice-with-Patryk
-Kebin adn patricks repository
+## Kebin adn patricks repository
+## Git Best Practices
